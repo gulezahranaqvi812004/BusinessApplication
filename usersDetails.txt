@@ -1,0 +1,8 @@
+ali,11122233,admin,0,No wish,Not given now
+laiba,56789012,employee,3000,No wish,Not given now
+kiran,12341234,employee,2000,No wish,Not given now
+nida,88776655,customer,0,No wish,Not given now
+nida fatima,11213141,admin,0,No wish,Not given now
+wajeeha batool,11121314,customer,0,No wish,Not given now
+new,10191817,employee,40000,No wish,Not given now
+fsf,hada1233,admin,0,,Not given now
