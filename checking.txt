@@ -1,0 +1,4 @@
+samsung,apple,infinix,
+samsung A13,iphone 13 pro,infinix 5pro,
+samsung A04,iphone 14 pro,infinix 4G pro,
+samsung J6,iphone XS,infinix 12,

@@ -1,4 +1,6 @@
-aaa,1000,10
-apple,1000,1
-oppo,12000,8
-vivo,12000,8
+Vivo,1000,10
+Apple,1000,0
+Oppo,12000,8
+Samsung,12000,8
+Infinix,12000,8
+Huawei,19000,3
